@@ -1,0 +1,4 @@
+$env:ARM_CLIENT_ID="aa"
+$env:ARM_CLIENT_SECRET="bbI"
+$env:ARM_SUBSCRIPTION_ID="cc"
+$env:ARM_TENANT_ID="dd"
